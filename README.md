@@ -8,4 +8,4 @@ For each of the reports, I require to provide the following:
 - the presentation of the final analysis results along with any associated annotations and supplementary information 
 
 # What is included here
-The Python code that process the data. The analysis of the data in Word Doc is not hosted here.
+The Python code that process the World Development Indicators data from The World Bank. The analysis of the data in Word Doc is not hosted here.
