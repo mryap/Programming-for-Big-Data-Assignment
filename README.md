@@ -1,5 +1,5 @@
 # WDI-Python
-As part of my Programming for Big Data Assignment, I required to carry out a series of analyses of two datasets utilising appropriate
+For Programming for Big Data assignment, I required to carry out a series of analyses of two datasets utilising appropriate
 programming languages and programming environments. 
 For each of the reports, I require to provide the following:
 - a description of the underlying datasets
