@@ -19,3 +19,6 @@ Using RStudio to process Hans Rosling’s Gapminder data with six variables that
 - pop: population
 - gdpPercap: GDP per capita
 - lifeExp: life expectancy
+
+# Findings
+Discover that for some countries life expectancy drop when GDP exceeds 60,000 marks.
