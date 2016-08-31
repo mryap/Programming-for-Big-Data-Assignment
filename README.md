@@ -6,9 +6,6 @@ For each of the reports, I require to provide the following:
 - the data processing activities carried out
 - the presentation of the final analysis results along with any associated annotations and supplementary information 
 
-# What is included here
-The Python code that process the World Development Indicators data from The World Bank. The analysis of the data in Word Doc is not hosted here.
-
 # Hans Rosling’s Gapminder data
 
 Using RStudio to process Hans Rosling’s Gapminder data with six variables that span from 1952 to 2007
