@@ -1,0 +1,6 @@
+{
+  "name": "Wdi-python",
+  "tagline": "Programming for Big Data Assignment",
+  "body": "# WDI-Python\r\nFor Programming for Big Data assignment, I required to carry out a series of analyses of two datasets utilising appropriate\r\nprogramming languages and programming environments. \r\nFor each of the reports, I require to provide the following:\r\n- a description of the underlying datasets\r\n- a description of the objective of the analysis\r\n- the data processing activities carried out\r\n- the presentation of the final analysis results along with any associated annotations and supplementary information \r\n\r\n# What is included here\r\nThe Python code that process the World Development Indicators data from The World Bank. The analysis of the data in Word Doc is not hosted here.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
