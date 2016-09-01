@@ -6,6 +6,9 @@ For each of the reports, I require to provide the following:
 - the data processing activities carried out
 - the presentation of the final analysis results along with any associated annotations and supplementary information 
 
+# Data
+The analysis involves using data from The World Bank’s World Development Indicators. There are 248 countries represented in this data. There are more than 1300 different economic indicators in the file. For Brazil, there are more than 30 GDP-related indicators.
+
 # Jupyter (formerly IPython) 
 is used with Pandas, which is an open source Python-based data analysis library is used.  
 The Pandas library brings specifically from R, the DataFrame objects and R packages such as plyr and reshape2, and places them in a single library that can be used in Python applications.
