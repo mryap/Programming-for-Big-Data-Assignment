@@ -6,16 +6,9 @@ For each of the reports, I require to provide the following:
 - the data processing activities carried out
 - the presentation of the final analysis results along with any associated annotations and supplementary information 
 
-# Hans Rosling’s Gapminder data
+# Jupyter (formerly IPython) 
+is used with Pandas, which is an open source Python-based data analysis library is used.  
+The Pandas library brings specifically from R, the DataFrame objects and R packages such as plyr and reshape2, and places them in a single library that can be used in Python applications.
 
-Using RStudio to process Hans Rosling’s Gapminder data with six variables that span from 1952 to 2007
-
-- country a factor with 142 levels
-- continent, a factor with 5 levels
-- year: going from 1952 to 2007 in increments of 5 years
-- pop: population
-- gdpPercap: GDP per capita
-- lifeExp: life expectancy
-
-# Findings
-Discover that for some countries life expectancy drop when GDP exceeds 60,000 marks.
+# Visual Representations
+Matplotlib, is used to create visual representations of the dataset or data analysis findings. Like Pandas, it works within Jupyter thus providing an interactive environment for plotting and exploring data.
