@@ -6,3 +6,5 @@ For each of the reports, I require to provide the following:
 - the data processing activities carried out
 - the presentation of the final analysis results along with any associated annotations and supplementary information 
 
+# Details of the course module
+http://courses.ncirl.ie/index.cfm/page/module/moduleId/20529 
