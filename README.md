@@ -1,4 +1,4 @@
-# WDI-Python
+# Introduction
 For Programming for Big Data assignment, I required to carry out a series of analyses of two datasets utilising RStudio, Python and MapReduce programming. 
 For each of the reports, I require to provide <details>the following:
 - a description of the underlying datasets
