@@ -1,4 +1,0 @@
-# Loading and Processing the Raw Data 
-The data  is  excerpt from  Hans  Rosling’s  Gapminder  data. The library(“gapminder”) is  being  prepared  by Jenny  Bryan, Associate  Professor  Statistics  
-&  Michael  Smith  Labs,  University of British  Columbia  Vancouver,  BC  Canada  
-who  used  this  R  library  for her  STATS 545A course since 2008. 
