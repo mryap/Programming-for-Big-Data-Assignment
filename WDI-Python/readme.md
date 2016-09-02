@@ -3,6 +3,7 @@
 The analysis involves using data from The World Bank’s World Development Indicators. 
 There are 248 countries represented in this data. There are more than 1300 different economic indicators in the file. 
 For Brazil, there are more than 30 GDP-related indicators.
+<detail>Data Source : http://data.worldbank.org/data-catalog/world-development-indicators</detail>
 
 # Jupyter (formerly IPython) 
 Jupyter is used with Pandas, which is an open source Python-based data analysis library is used.  
