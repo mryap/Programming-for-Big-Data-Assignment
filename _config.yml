@@ -1,0 +1,13 @@
+---
+title: iWorkwithData
+timezone: Europe/London
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+  classifications:
+    title: classifications
+    output: true
