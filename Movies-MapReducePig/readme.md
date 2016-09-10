@@ -5,7 +5,7 @@ Hadoop is largely written in Java and Java is the language of MapReduce.  Howeve
 Pig allows you to run MapReduce jobs without using Java. According to Yahoo! Research, using Pig Latin takes just 5 minutes to write 9 lines of code to do the following while using Java, it 4 hours and 170 lines of code.  (Gates and Yahoo! Research, 2010) 
 Pigs do can fly!
 
-[[https://github.com/mryap/Programming-for-Big-Data-Assignment/blob/master/media/MapReducePig.png|alt=MapReducePig]]
+[[Programming-for-Big-Data-Assignment/media/MapReducePig.png|alt=MapReducePig]]
 
 
 # Data Processing using MapReduce Pig
