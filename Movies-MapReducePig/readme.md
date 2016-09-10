@@ -13,16 +13,21 @@ A typical Pig Latin programs are generally organized as follows:
 - Alternatively, a DUMP statement displays the output to the terminal
 
 
+The analysis is based on the blogpost by Menon’s Apache Pig Tutorial – Part 1 and Part 2. (Menon, 2013) 
+
+# Dataset
+The dataset is from Menon’s now defunct project called Flicksery. Flicksery is a Netflix Search Engine. The dataset is a simple text (movies_data.csv) file lists movie names and its details like release year, rating and runtime. It is available at his github account. (https://github.com/rohitsden/pig-tutorial/blob/master/movies_data.csv)
+
 # MapReduce environment Configuration details
 There are various options to run the MapReduce jobs 
 - running locally
 - in the cloud
 - on own cluster. 
 
-For the purpose of this assignment, running the MapReduce jobs locally and in the cloud is the only viable option. AWS Amazon EMR platform is used since it does not require download and installation i.e. my laptopto a local machine.  
+For the purpose of this assignment, running the MapReduce jobs locally and in the cloud is the only viable option. AWS Amazon EMR platform is used since it does not require download and installation i.e. my laptop to a local machine.  
 
 Amazon EMR is a web service that utilizes a hosted Hadoop framework running on the web-scale infrastructure of Amazon Elastic Compute Cloud (Amazon EC2) and Amazon Simple Storage Service (Amazon S3). It includes HDFS (with S3 support), HBase (proprietary backup recovery), MapReduce, Hive (added support for Dynamo), Pig, and Zookeeper. (Lublinsky, Smith, and Yakubovich, 2013)
-The initial experience with Amazon EMR is overwhelming.  I have no idea what happen and what to do next after I uploaded Pig Latin script and data source files to Amazon Simple Storage Service (Amazon S3).  IBM bluemix, a cloud platform to run MapReduce without Java is another suggested alternative.  
+IBM bluemix, a cloud platform to run MapReduce without Java is another suggested alternative.  
 
 Fortunately, HUE, an open-source user interface for Hadoop is available. HUE is called the user interface of Hadoop.  It makes interacting with Amazon EMR cluster easier.  
 
